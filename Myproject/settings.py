@@ -120,7 +120,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-#manual
+#manual for use static files
 
 STATICFILES_DIRS=[
     os.path.join(BASE_DIR,'static')
